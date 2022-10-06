@@ -3,6 +3,7 @@ import './App.css';
 import Headline from './Hedline';
 import Khobor from './Khobor';
 import data from './data';
+//commited from browser
 function App() {
   return (
     <div className='h-full w-full'>
